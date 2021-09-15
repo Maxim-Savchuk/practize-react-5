@@ -9,14 +9,14 @@ export const Form = styled.form`
 `;
 
 export const Input = styled.input`
-  border: 2px solid hotpink;
+  border: 2px solid grey;
   outline: none;
   padding: 3px 6px;
   width: 240px;
   height: 20px;
   &:hover,
   &:focus {
-    border: 2px solid grey;
+    border: 2px solid hotpink;
   }
 
 `;
